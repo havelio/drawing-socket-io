@@ -1,0 +1,6 @@
+framework module Pods_DrawingSocket {
+  umbrella header "Pods-DrawingSocket-umbrella.h"
+
+  export *
+  module * { export * }
+}
